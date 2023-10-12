@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Let me introduce myself, I am Célian Lebacle and currently a first year Master's student at Digital Campus. I am a developer who would like to specialize in Front-End and work as a freelancer.
+
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
