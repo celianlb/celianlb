@@ -2,6 +2,11 @@
 
 Let me introduce myself, I am Célian Lebacle and currently a first year Master's student at Digital Campus. I am a developer who would like to specialize in Front-End and work as a freelancer.
 
+<b>My favorite technologies</b>
+
+<a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
+
+
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
