@@ -8,7 +8,7 @@ I am Célian Lebacle and currently giving formation for students in web developp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="max-width: 100%;"> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"   
-   height="60" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"> 
+   height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" style="max-width: 100%;"> </a>
   <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"     alt="tailwind" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40" style="max-width: 100%;"> 
