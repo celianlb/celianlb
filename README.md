@@ -13,7 +13,7 @@ I am Célian Lebacle and currently giving formation for students in web developp
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> 
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="docker" height="40"  style="max-width: 100%;"> 
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="40" style="max-width: 100%;"> 
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="60" height="40" style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40" style="max-width: 100%;"> 
 
   
 </div>
