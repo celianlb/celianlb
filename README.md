@@ -25,9 +25,11 @@ I am Célian Lebacle and currently giving formation for students in web developp
 
 <b>My favorite tools to create</b>
 
-<a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a>
-
+<div>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="60" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"         
+    height="60" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
+</div>
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
