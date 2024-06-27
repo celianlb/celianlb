@@ -12,8 +12,8 @@ I am Célian Lebacle and currently giving formation for students in web developp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="max-width: 100%;"> </a>
   <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"     alt="tailwind" width="60" height="60" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="max-width: 100%;"> 
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="docker" width="60" height="60" style="max-width: 100%;"> 
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="docker" width="60" height="60" style="max-width: 100%;"> 
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="docker" width="60"  style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="docker" width="60" style="max-width: 100%;"> 
 
   
 </div>
