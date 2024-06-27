@@ -1,10 +1,12 @@
 # Hey 👋
 
 I am Célian Lebacle and currently giving formation for students in web developpement and im also a free-lance front-end developper.
+<br/>
+<br/>
 
 <b>My favorite technologies</b>
 <br/>
-
+<br/>
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="docker" height="40"  style="max-width: 100%;"> 
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="40" style="max-width: 100%;">
@@ -25,7 +27,8 @@ I am Célian Lebacle and currently giving formation for students in web developp
 
 
 <b>My favorite tools to create</b>
-
+<br/>
+<br/>
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"         
     height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
