@@ -32,6 +32,9 @@ I am Célian Lebacle and currently giving formation for students in web developp
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="40" style="max-width: 100%;">
 </div>
 
+<br/>
+<br/>
+
 <b>And im actually working on</b>
 <br/>
 <div>
