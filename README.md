@@ -41,6 +41,15 @@ I am Célian Lebacle and currently giving formation for students in web developp
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;"> 
 </div>
+
+<br/>
+<br/>
+
+<b>Let's collaborate together !</b>
+<br/>
+<div>
+    <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="max-width: 100%;"></a>
+</div>
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
