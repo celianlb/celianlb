@@ -6,7 +6,6 @@ I am Célian Lebacle and currently giving formation for students in web developp
 
 <b>My favorite technologies</b>
 <br/>
-<br/>
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="docker" height="40"  style="max-width: 100%;"> 
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="40" style="max-width: 100%;">
@@ -24,10 +23,10 @@ I am Célian Lebacle and currently giving formation for students in web developp
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40" style="max-width: 100%;"> 
 </div>
 
-
+<br/>
+<br/>
 
 <b>My favorite tools to create</b>
-<br/>
 <br/>
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"         
