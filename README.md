@@ -1,6 +1,6 @@
 # Hey 👋
 
-I am Célian Lebacle and currently a first year Master's student at Digital Campus. I am a developer who would like to specialize in Front-End and work as a freelancer.
+I am Célian Lebacle and currently giving formation for students in web developpement and im also a free-lance front-end developper.
 
 <b>My favorite technologies</b>
 
