@@ -26,9 +26,9 @@ I am Célian Lebacle and currently giving formation for students in web developp
 <b>My favorite tools to create</b>
 
 <div>
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="40" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"         
     height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="40" style="max-width: 100%;">
 </div>
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
