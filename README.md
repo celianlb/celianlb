@@ -2,7 +2,9 @@
 
 I am Célian Lebacle and currently giving formation for students in web developpement and im also a free-lance front-end developper.
 
-<b style="margin-botton: 40px;">My favorite technologies</b>
+<b>My favorite technologies</b>
+<br/>
+<br/>
 
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="docker" height="40"  style="max-width: 100%;"> 
