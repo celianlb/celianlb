@@ -39,7 +39,8 @@ I am Célian Lebacle and currently giving formation for students in web developp
 <br/>
 <div>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="vuejs" height="40" style="max-width: 100%;">
 </div>
 
 <br/>
