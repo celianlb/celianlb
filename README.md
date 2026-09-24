@@ -1,6 +1,6 @@
 # Hey 👋
 
-I am Célian Lebacle and currently giving formation for students in web developpement and im also a free-lance front-end developper.
+I am Célian Lebacle, im a free-lance full-stack engineer and currently giving formation for students in web developpement.
 <br/>
 <br/>
 
